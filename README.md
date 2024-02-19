@@ -5,6 +5,9 @@ I graduated from Durham University with an integrated master's degree in physics
 
 🔬 <a href="/files/summative_report.pdf" target="_blank">Using a Neural Network to Explore the Conformational Space of MurD</a>
 
+<img src="/files/protein.png" width="500" height="350">
+
+
 I also used my coding skills for modelling, analysis and visualisation in many other projects at Durham which I am proud of: 
 
 ⚛ <a href="/files/Computing_project.pdf" target="_blank">Solving for the Helium Atom Energies with the Variational Method</a> I used numerical computational techniques to solve for the ground state energy and excited state energies of the helium atom.
