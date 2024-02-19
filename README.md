@@ -11,7 +11,7 @@ I used a bespoke CNN to study the conformational states of a bacterial protein, 
 
 <img src="/files/protein.png" width="500" height="350">
 
-I also used my coding skills for modelling, analysis and visualisation in many other projects at Durham which I am proud of: 
+Recently, I have been following a machine learning and data science course on udemy and started a competition on Kaggle. I also used my coding skills for modelling, analysis and visualisation in many other projects at Durham which I am proud of: 
 
 ⚛ <a href="/files/Computing_project.pdf" target="_blank">Solving for the Helium Atom Energies with the Variational Method</a> I used numerical computational techniques to solve for the ground state energy and excited state energies of the helium atom.
 
