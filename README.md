@@ -5,8 +5,11 @@ I graduated from Durham University with an integrated master's degree in physics
 
 🔬 <a href="/files/summative_report.pdf" target="_blank">Using a Neural Network to Explore the Conformational Space of MurD</a>
 
-<img src="/files/protein.png" width="500" height="350">
+I used a bespoke CNN to study the conformational states of a bacterial protein, MurD. My project focussed on hyperparameter tuning and changing the input atom conformations to improve the network. 
 
+
+
+<img src="/files/protein.png" width="500" height="350">
 
 I also used my coding skills for modelling, analysis and visualisation in many other projects at Durham which I am proud of: 
 
