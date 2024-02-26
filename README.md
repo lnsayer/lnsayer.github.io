@@ -17,7 +17,7 @@ Recently, I have been following a machine learning and data science course on ud
 
 <img src="/files/energies.png" width="450" height="350">
 
-☢ <a href="/files/high_energy_beta_spectroscopy.pdf" target="_blank"> Determining the Spectral Energy Distributions and Absorption Coefficients for Sr-90 and Y-90</a> I detemined the combined energy spectra of two radioactive isotopes with a silicon surface barrier detector.
+☢ <a href="/files/high_energy_beta_spectroscopy.pdf" target="_blank"> Determining the Spectral Energy Distributions and Absorption Coefficients for Sr-90 and Y-90</a> I determined the combined energy spectra of two radioactive isotopes with a silicon surface barrier detector.
 
 <img src="/files/energy_dist.png" width="500" height="350">
 
